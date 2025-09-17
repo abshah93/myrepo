@@ -1,0 +1,9 @@
+body
+styles
+h1 {
+  color: #2c3e50;          /* text color */
+  font-size: 32px;         /* font size */
+  font-weight: bold;       /* font thickness */
+  text-align: center;      /* alignment */
+  text-transform: uppercase; /* all caps */
+}
